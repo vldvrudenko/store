@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vldvrudenko/myStore/static/css/main.f9de2edb.css",
+    "main.js": "/vldvrudenko/myStore/static/js/main.26e84414.js",
+    "index.html": "/vldvrudenko/myStore/index.html",
+    "main.f9de2edb.css.map": "/vldvrudenko/myStore/static/css/main.f9de2edb.css.map",
+    "main.26e84414.js.map": "/vldvrudenko/myStore/static/js/main.26e84414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9de2edb.css",
+    "static/js/main.26e84414.js"
+  ]
+}
